@@ -1,2 +1,3 @@
-# Hello-Git
-Just a test repository
+HiGit
+
+THis is just a test repository
