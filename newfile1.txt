@@ -1,11 +1,1 @@
 new file 1
-
-branch2 jobbar här
-s
-
-
-Branch1
-branch1
-branch1 jobbar här nere
-
-hejhej
